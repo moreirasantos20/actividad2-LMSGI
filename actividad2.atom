@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Desarrollo de Aplicaciones Multiplataforma - FP</title>
-  <link href="http://www.mi-centro-fp.com/dam"/>
+  <title>Desarrollo de Aplicaciones Multiplataforma</title>
+  <link href="https://fpadistancia.edu.xunta.gal/iesmurallarromana/dam"/>
   <updated>2025-05-05T12:00:00Z</updated>
   <author>
-    <name>Centro FP Ejemplo</name>
+    <name>IES Muralla Romana</name>
   </author>
-  <id>http://www.mi-centro-fp.com/dam</id>
+  <id>https://fpadistancia.edu.xunta.gal/iesmurallarromana/dam</id>
   <entry>
     <title>Programación</title>
-    <link href="http://www.mi-centro-fp.com/dam/programacion"/>
-    <id>http://www.mi-centro-fp.com/dam/programacion</id>
+    <link href="https://fpadistancia.edu.xunta.gal/iesmurallarromana/dam/programacion"/>
+    <id>https://fpadistancia.edu.xunta.gal/iesmurallarromana/dam/programacion</id>
     <updated>2025-05-05T12:00:00Z</updated>
     <summary>Módulo de programación: fundamentos, algoritmos, estructuras de datos.</summary>
   </entry>
   <entry>
     <title>Bases de Datos</title>
-    <link href="http://www.mi-centro-fp.com/dam/bbdd"/>
-    <id>http://www.mi-centro-fp.com/dam/bbdd</id>
+    <link href="https://fpadistancia.edu.xunta.gal/iesmurallarromana/dam/bases_datos"/>
+    <id>https://fpadistancia.edu.xunta.gal/iesmurallarromana/dam/bases_datos</id>
     <updated>2025-05-05T12:00:00Z</updated>
     <summary>Módulo de bases de datos: diseño, SQL, administración.</summary>
   </entry>
   <entry>
     <title>Entornos de Desarrollo</title>
-    <link href="http://www.mi-centro-fp.com/dam/entornos"/>
-    <id>http://www.mi-centro-fp.com/dam/entornos</id>
+    <link href="https://fpadistancia.edu.xunta.gal/iesmurallarromana/dam/entornos_desarrollo"/>
+    <id>https://fpadistancia.edu.xunta.gal/iesmurallarromana/dam/entornos_desarrollo</id>
     <updated>2025-05-05T12:00:00Z</updated>
     <summary>Módulo de entornos de desarrollo: herramientas, IDEs, metodologías.</summary>
   </entry>
